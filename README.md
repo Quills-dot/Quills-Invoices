@@ -5,7 +5,7 @@ emailed, and then forgotten until the client happens to pay. Quill keeps every
 invoice in one of four honest states so you always know what's owed, what's
 late, and who to email today.
 
-**Live app:** _add your deployed URL here_
+**Live app:** (https://quills-invoices.vercel.app)
 **Demo login:** `demo@example.com` / `demo1234`
 
 ---
